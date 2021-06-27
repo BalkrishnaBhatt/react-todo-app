@@ -7,6 +7,11 @@ Simple react todo app with chrome notification.
 Here are the few screen-shots of my basic app
 
 
+![screenshot-balkrishnabhatt github io-2021 06 27-19_39_34](https://user-images.githubusercontent.com/28816472/123547865-14390900-d780-11eb-86de-fe7d5e57ecfe.png)
+
+
+<img width="1680" alt="Screenshot 2021-06-27 at 7 39 25 PM" src="https://user-images.githubusercontent.com/28816472/123547881-26b34280-d780-11eb-84d3-5461cb60713f.png">
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
