@@ -1,0 +1,22 @@
+.form {
+  width: 200px;
+  height: 20px;
+  input {
+    background-color: rgb(255, 255, 255);
+    border: 0;
+    width: 235px;
+    height: 40px;
+    padding: 0 20px;
+    margin: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    color: black;
+
+    ::placeholder {
+      color: black;
+    }
+    :focus {
+      outline: none;
+    }
+  }
+}

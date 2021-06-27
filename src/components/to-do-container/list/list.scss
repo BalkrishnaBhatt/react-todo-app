@@ -1,0 +1,27 @@
+.list {
+  color: black;
+  width: 360px;
+  background-color: rgb(247, 247, 247);
+  margin: 20px auto;
+  border-radius: 5px;
+  height: 40px;
+  -webkit-box-shadow: 2px 3px 2px 1px rgb(199, 199, 199);
+  -moz-box-shadow:    2px 3px 2px 1px rgb(199, 199, 199);
+  box-shadow:         2px 3px 2px 1px rgb(199, 199, 199);
+  p {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    position: relative;
+    input {
+      background-color: transparent;
+      border: 0;
+      color: rgb(12, 5, 5);
+      font-size: 18px;
+      :focus {
+        outline: none !important;
+      }
+    }
+  }
+}
